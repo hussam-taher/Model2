@@ -6,6 +6,18 @@
 # =============================================================================
 
 # -----------------------------------------------------------------------------
+# Section 0: Install Required Libraries (Run Once)
+# -----------------------------------------------------------------------------
+# Uncomment the following lines to install libraries:
+# !pip install tensorflow numpy pandas scikit-learn matplotlib seaborn
+
+# Or run this command in terminal/command prompt:
+# pip install -r requirements.txt
+
+# Or run this command directly:
+# pip install tensorflow numpy pandas scikit-learn matplotlib seaborn
+
+# -----------------------------------------------------------------------------
 # Section 1: Import Required Libraries
 # -----------------------------------------------------------------------------
 import numpy as np
